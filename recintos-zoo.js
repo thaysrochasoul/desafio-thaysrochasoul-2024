@@ -12,11 +12,33 @@ class RecintosZoo {
                          {especie: "CROCODILO", tamanhho: 3, bioma: "Rio"},
                          {especie:"GAZELA", tamanho: 2, bioma: "Savana"},
                          {especie: "HIPOPOTAMO", tamanho: 4, bioma: "Savana", "Rio"}];
-        let recintos =  [{bioma: 'Savana1', tamanhoEspaco:10 },
-                         {bioma: 'floresta', tamanhoEspaco: 5},
+
+        let recintos =  [{bioma: 'Savana', tamanhoEspaco: 10 },
+                         {bioma: 'Floresta', tamanhoEspaco: 5},
                          {bioma: 'SavanaRio', tamanhoEspaco: 7},
                          {bioma: 'Rio', tamanhoEspaco: 8},
                          {bioma: 'Savana5', tamanhoEspaco: 9}];
+        
+
+
+        function encontrarRecinto(animais){
+
+            if recintos = Savana
+            return 10;
+
+            if recintos = Floresta
+            return 5;
+
+            if recintos = savanaRio
+            return 7;
+
+            if recintos = Rio
+            return 8;
+
+            if recintos = Savana5
+            return 9;
+        }
+        console.log(animais);
 
     }
 
