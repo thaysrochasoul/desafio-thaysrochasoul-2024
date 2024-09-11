@@ -29,7 +29,7 @@ class RecintosZoo {
             if recintos = Floresta
             return 5;
 
-            if recintos = savanaRio
+            if recintos = SavanaRio
             return 7;
 
             if recintos = Rio
